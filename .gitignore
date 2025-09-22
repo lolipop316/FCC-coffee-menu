@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+.Trashes
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.suo
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+*.egg-info/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs, temp, secrets
+*.log
+.env
+*.pem
+*.key
+
+# Optional: ignore system dotfiles you don't want in repo
+.CFUserTextEncoding
+.zsh_history
+.bash_history
+
